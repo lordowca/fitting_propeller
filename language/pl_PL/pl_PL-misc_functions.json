@@ -1,0 +1,12 @@
+{
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_1": "Pola wymagane",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_1": "Proszę uzupełnić pola!",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_2": "Zapis do bazy danych",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_2": "Dane zapisane w bazie danych",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_3": "Aktualizacja bazy danych",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_3": "Zaktualizowano wpis do bazy danych.",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_4": "Eksport do xlsx",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_4": "Tabela została zapisana w pliku xlsx.",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_5": "Plik istnieje",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_5": "Plik istniej czy go nadpisać?"
+}

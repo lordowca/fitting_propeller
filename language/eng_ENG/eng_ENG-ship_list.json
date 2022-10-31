@@ -1,0 +1,16 @@
+{
+    "SHIP_LIST_TITLE": "List of saved projects",
+    "SHIP_LIST_LISTBOX_HEADER": "List of saved projects",
+    "SHIP_LIST_DELETE_BUTTON": "Delete",
+    "SHIP_LIST_REFRESH_BUTTON": "Refresh",
+    "SHIP_LIST_TREE_COL1": "ID",
+    "SHIP_LIST_TREE_COL2": "Vessel",
+    "SHIP_LIST_TREE_COL3": "Date of creation",
+    "SHIP_LIST_TREE_COL4": "Date of modification",
+    "SHIP_LIST_TITLE_MESSAGEBOX_1": "Selection error",
+    "SHIP_LIST_INFO_MESSAGEBOX_1": "Mark the record for deletion",
+    "SHIP_LIST_TITLE_MESSAGEBOX_2": "Deletion of entry",
+    "SHIP_LIST_INFO_MESSAGEBOX_2": "Are you sure you want to delete this record?",
+    "SHIP_LIST_TITLE_MESSAGEBOX_3": "Success",
+    "SHIP_LIST_INFO_MESSAGEBOX_3": "The selected record has been deleted"
+}

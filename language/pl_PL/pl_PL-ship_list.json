@@ -1,0 +1,16 @@
+{
+    "SHIP_LIST_TITLE": "Lista zapisanych projektów",
+    "SHIP_LIST_LISTBOX_HEADER": "Lista zapisanych projektów",
+    "SHIP_LIST_DELETE_BUTTON": "Usuń",
+    "SHIP_LIST_REFRESH_BUTTON": "Odśwież",
+    "SHIP_LIST_TREE_COL1": "ID",
+    "SHIP_LIST_TREE_COL2": "Statek",
+    "SHIP_LIST_TREE_COL3": "Data utworzenia",
+    "SHIP_LIST_TREE_COL4": "Data modyfikacji",
+    "SHIP_LIST_TITLE_MESSAGEBOX_1": "Błąd zaznaczenia",
+    "SHIP_LIST_INFO_MESSAGEBOX_1": "Zaznacz wiersz do usunięcia",
+    "SHIP_LIST_TITLE_MESSAGEBOX_2": "Usunięcie wpisu",
+    "SHIP_LIST_INFO_MESSAGEBOX_2": "Czy na pewno chcesz usunąć ten wiersz?",
+    "SHIP_LIST_TITLE_MESSAGEBOX_3": "Sukces",
+    "SHIP_LIST_INFO_MESSAGEBOX_3": "Wybrany wiersz został usunięty"
+}

@@ -1,0 +1,15 @@
+{
+    "WELCOME_MENU_TITLE": "Obliczenia osadzania śruby na wale",
+    "WELCOME_MENU_LABEL1": "Wybierz co chcesz obliczyć",
+    "WELCOME_MENU_LABEL2": "Wykresy przesunięcia śruby na stożku na podstawie dwóch punktów",
+    "WELCOME_MENU_LABEL3": "Osadzenie śruby na stożku wału przepisy towarzystw klasyfikacyjnych",
+    "WELCOME_MENU_LIST_LABEL": "Lista projektów",
+    "WELCOME_MENU_BUTTON1": "Jenda prosta",
+    "WELCOME_MENU_BUTTON2": "Dwie proste",
+    "WELCOME_MENU_BUTTON_BV": "BV",
+    "WELCOME_MENU_BUTTON_DNV": "DNV",
+    "WELCOME_MENU_BUTTON_LR": "LR",
+    "WELCOME_MENU_LIST_BUTTON": "Lista",
+    "WELCOME_MENU_LANGUAGE_LABEL": "Zmień język",
+    "WELCOME_MENU_SAVE_BUTTON": "Zapisz"
+}

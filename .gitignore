@@ -1,0 +1,6 @@
+.osadzenie-venv/
+**/__pycache__
+export/
+setupy/
+*.ini
+database/ship.db

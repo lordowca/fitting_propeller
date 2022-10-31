@@ -1,0 +1,12 @@
+{
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_1": "Required fields",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_1": "Please complete the fields!",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_2": "Writing to the database",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_2": "Data stored in the database",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_3": "Database update",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_3": "Database entry updated.",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_4": "Export to Excel",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_4": "The table was saved in an xlsx file.",
+    "MISC_FUNCTIONS_TITLE_MESSAGEBOX_5": "The file instances",
+    "MISC_FUNCTIONS_INFO_MESSAGEBOX_5": "Do you want to overwrite the file?"
+}

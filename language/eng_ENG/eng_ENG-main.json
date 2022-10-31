@@ -1,0 +1,15 @@
+{
+    "WELCOME_MENU_TITLE": "Calculation of the permissible pull-up of the propeller",
+    "WELCOME_MENU_LABEL1": "Select what you want to calculate",
+    "WELCOME_MENU_LABEL2": "Graphs the pull-up of propeller on shaft based on two points",
+    "WELCOME_MENU_LABEL3": "Fitting the propeller on shaft regulations of classification societies",
+    "WELCOME_MENU_LIST_LABEL": "List of projects",
+    "WELCOME_MENU_BUTTON1": "One line",
+    "WELCOME_MENU_BUTTON2": "Two lines",
+    "WELCOME_MENU_BUTTON_BV": "BV",
+    "WELCOME_MENU_BUTTON_DNV": "DNV",
+    "WELCOME_MENU_BUTTON_LR": "LR",
+    "WELCOME_MENU_LIST_BUTTON": "List",
+    "WELCOME_MENU_LANGUAGE_LABEL": "Change language",
+    "WELCOME_MENU_SAVE_BUTTON": "Save"
+}
