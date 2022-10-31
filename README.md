@@ -1,8 +1,8 @@
-#Fitting propeller 
+# Fitting propeller 
 
 This is a script that creates a plot of the pull-up depending on the temperature of the propeller on the shaft.
 
-##Project Description
+## roject Description
 
 When fitting a propeller to a shaft in a shipyard, it is important to have information about the minimum displacement at a given temperature. In most cases, such information is provided to the shipyard by the Shipowner, but there are also cases when such information is not available or incomplete. The script perform calculations and plot for following cases:
 
@@ -13,7 +13,7 @@ Calculations made on the basis of the regulations of classification societies, t
 
 The program has a GUI made in Tkinter, graphs are supported by the matplotlib library (it is possible to save the graph to a graphic file), the result of the calculation can be saved to an xlsx file. Calculations performed can be saved and loaded from the list of saved projects if necessary. The data is stored in a local SQL database (sqllite3).
 
-##Running the Project
+## Running the Project
 
 To run the project in the terminal, you need to install python 3.9 or 3.10 and the following libraries:
 ```
@@ -30,5 +30,5 @@ Running the script in terminal: you need to be in the folder with the script and
 python main.py
 ```
 
-##Credits
+## Credits
 The script used to handle window scrolling was created by JackTheEngineer and Serhiy1. [Link to github](https://gist.github.com/JackTheEngineer/81df334f3dcff09fd19e4169dd560c59)
